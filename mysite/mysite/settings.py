@@ -25,7 +25,7 @@ SECRET_KEY = '001(0+1hj+xva48n@$7&%m!hby2nrz8%m()4v&b$!oey*+^^hw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['git.zcrafts.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'git.zcrafts.com']
 
 
 # Application definition
